@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>textures/clouds.bmp</file>
+        <file>textures/earth.bmp</file>
+        <file>textures/jupiter.bmp</file>
+        <file>textures/mars.bmp</file>
+        <file>textures/mercury.bmp</file>
+        <file>textures/moon.bmp</file>
+        <file>textures/neptune.bmp</file>
+        <file>textures/pluto.bmp</file>
+        <file>textures/ring.bmp</file>
+        <file>textures/saturn.bmp</file>
+        <file>textures/stars.bmp</file>
+        <file>textures/sun.bmp</file>
+        <file>textures/sun2.bmp</file>
+        <file>textures/uranus.bmp</file>
+        <file>textures/venus.bmp</file>
+    </qresource>
+</RCC>
